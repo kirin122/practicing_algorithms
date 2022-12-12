@@ -1,0 +1,18 @@
+.DS_Store
+.DS_store
+*.log
+
+# IDE specific
+.scala_dependencies
+.classpath
+*.iml
+.idea/
+.idea_modules/
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
+/.env
+atlassian-ide-plugin.xml
+__pycache__
+.vscode
